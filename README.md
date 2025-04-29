@@ -3,6 +3,7 @@
 This project explores the habitability of confirmed exoplanets using data from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/). With over 5,800 planets in the dataset, I built a structured analysis pipeline to filter out candidates based on habitability models and key planetary and stellar features.
 
 After going through the data, only **21 exoplanets** matched the criteria for potential habitability, meaning they are rocky, lie within the habitable zone of their stars, and have an Earth Similarity Index (ESI) of **0.8 or higher**.
+
 ---
 
 ## Key Results
